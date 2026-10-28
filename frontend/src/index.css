@@ -1,0 +1,22 @@
+
+:root {
+  color-scheme: dark;
+  background: #080e17;
+}
+html {
+  min-width: 360px;
+  min-height: 100%;
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  min-width: 360px;
+  min-height: 100vh;
+}
+#root {
+  min-height: 100vh;
+}
+::selection {
+  color: #071a16;
+  background: #76e7c5;
+}

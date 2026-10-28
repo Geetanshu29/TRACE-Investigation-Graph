@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+pydantic
+python-multipart
+pypdf
+neo4j==6.4.1
